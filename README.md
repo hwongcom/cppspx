@@ -4,10 +4,11 @@ cppspx, special fork, independant of cpoll_cppsp... note the extra x
 
 Starting this new one because the original author is not active with the development.
 
+You can use C++ modules with -fPIC during all module compilation
+
 Direction and Roadmap
 =====================
-* Compatibility with redis and dynamic-cpp module.
-* Redis and dynamic-cpp is still not ready, please join us in discussion on issue tracking... thanks.
+* Making cookies access, please join us in discussion on issue tracking... thanks.
 
 CPPSP: C++ Server Pages
 =======================
